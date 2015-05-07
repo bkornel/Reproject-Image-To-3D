@@ -35,4 +35,9 @@ Comparing a OpenCV's [`reprojectImageTo3D()`][1] to my own
 		}
 	}
 	
+	
+Disparity map and Q matrix is from [Martin Peris' Blog][2].
+
   [1]: http://docs.opencv.org/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html#reprojectimageto3d
+  [2]: http://blog.martinperis.com/2012/01/3d-reconstruction-with-opencv-and-point.html
+  
